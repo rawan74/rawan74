@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rawan Mostafa</h1>
-<h3 align="center">I'm an garduted Student of Faculty of Computers and artificial intelligence at Cairo University</h3>
+<h3 align="center">I'm a garduted Student of Faculty of Computers and artificial intelligence at Cairo University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rawan74&label=Profile%20views&color=0e75b6&style=flat" alt="rawan74" /> </p>
 
